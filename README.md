@@ -1,2 +1,2 @@
-# app-demo1
+# app-demo2
 Hello Trusted CICD World
